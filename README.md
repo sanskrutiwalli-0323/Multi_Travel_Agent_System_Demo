@@ -6,8 +6,6 @@ The system uses multiple specialized AI agents that collaborate to automatically
 
 ## 📸 Application Preview
 
-![AI Travel Planning System](screenshots/Home (2).png)
-
 ### ✈️ Travel Planning
 
 ![Travel Input](screenshots/Planning.png)
