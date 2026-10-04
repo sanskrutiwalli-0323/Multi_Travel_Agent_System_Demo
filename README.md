@@ -10,10 +10,6 @@ The system uses multiple specialized AI agents that collaborate to automatically
 
 ![Travel Input](screenshots/Planning.png)
 
-### 🗺️ Generated Travel Plan
-
-![Travel Plan](screenshots/Sample Output.png)
-
 ### Genrate FInal Output
  
 ![Travel Plan](screenshots/Final_output.png)
