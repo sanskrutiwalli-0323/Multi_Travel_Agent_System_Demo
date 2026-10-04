@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environment
+langgraph_env3/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
